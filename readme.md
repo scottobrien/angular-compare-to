@@ -1,4 +1,4 @@
-## Angular Phone Compare To Directive
+## Angular Compare To Directive
 ### Compares to inputs and notifies user when they do not match
 
 * npm install
